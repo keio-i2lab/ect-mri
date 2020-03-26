@@ -1,5 +1,7 @@
 # ect-mri
 
+
+** Citation **
 > Takamiya A, Liang KC, Nishikata S, Tarumi R, Sawada K, Kurokawa S,
 > Hirano J, Yamagata B, Mimura M, Kishimoto T. "Predicting Individual
 > Remission After Electroconvulsive Therapy Based on Structural
