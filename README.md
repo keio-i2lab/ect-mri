@@ -1,7 +1,12 @@
 # ect-mri
 
+This repository contains the scripts for the prediction of patient
+remission status and prediction of patient HAMD change after treatment
+with electroconvulsive therapy (ECT) used in the work "Predicting
+Individual Remission After Electroconvulsive Therapy Based on
+Structural Magnetic Resonance Imaging: A Machine Learning Approach."
 
-** Citation **
+## Citation
 > Takamiya A, Liang KC, Nishikata S, Tarumi R, Sawada K, Kurokawa S,
 > Hirano J, Yamagata B, Mimura M, Kishimoto T. "Predicting Individual
 > Remission After Electroconvulsive Therapy Based on Structural
